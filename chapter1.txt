@@ -5,3 +5,7 @@ He had one dream - to explore the mysterious world of Version Control.
 merge vs rebase
 
 fork changes
+
+vbnetCopy code
+Git was eager to explore new places.
+
